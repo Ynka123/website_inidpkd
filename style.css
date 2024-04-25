@@ -1,0 +1,122 @@
+.cover 
+{
+  background-color: #739072;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.cover .div 
+{
+  background-color: #739072;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+}
+
+.cover .text-wrapper 
+{
+  position: absolute;
+  width: 295px;
+  top: 215px;
+  left: 493px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #d9d9d9;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cover .HOME 
+{
+  position: absolute;
+  width: 871px;
+  height: 311px;
+  top: 240px;
+  left: 208px;
+}
+
+.cover .overlap-group 
+{
+  position: relative;
+  width: 865px;
+  height: 311px;
+}
+
+.cover .text-wrapper-2 
+{
+  top: 163px;
+  opacity: 0.5;
+  position: absolute;
+  width: 865px;
+  left: 0;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #d9d9d9;
+  font-size: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cover .text-wrapper-3 
+{
+  top: 74px;
+  position: absolute;
+  width: 865px;
+  left: 0;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #d9d9d9;
+  font-size: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cover .PROFILE 
+{
+  top: 0;
+  opacity: 0.5;
+  position: absolute;
+  width: 865px;
+  left: 0;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #d9d9d9;
+  font-size: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cover .span 
+{
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #d9d9d9;
+  font-size: 200px;
+  letter-spacing: 0;
+}
+
+.cover .text-wrapper-4 
+{
+  font-size: 100px;
+}
+
+.cover .arrow_back_ios_new 
+{
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  margin-top: 404px;
+  margin-left: 1233px;
+  margin-right: 23px;
+  margin-bottom: 404px;
+  position: relative;
+  flex-shrink: 0;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
